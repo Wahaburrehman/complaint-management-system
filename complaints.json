@@ -1,0 +1,252 @@
+[
+  {
+    "id": "CMP-1001",
+    "name": "Fatima Noor",
+    "title": "Water leakage in hostel block B",
+    "category": "Facilities",
+    "priority": "Low",
+    "status": "Progress",
+    "desc": "Pipe leaking on 2nd floor since 3 days.",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "CMP-1002",
+    "name": "Nimra Javed",
+    "title": "Broken chairs in classroom 204",
+    "category": "Facilities",
+    "priority": "High",
+    "status": "Pending",
+    "desc": "Several chairs are broken and unsafe to sit on.",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "CMP-1003",
+    "name": "Talha Mahmood",
+    "title": "AC not working in lab",
+    "category": "Facilities",
+    "priority": "High",
+    "status": "Pending",
+    "desc": "Air conditioner in the computer lab has stopped cooling.",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "CMP-1004",
+    "name": "Bilal Ahmed",
+    "title": "Washroom cleanliness issue",
+    "category": "Facilities",
+    "priority": "Low",
+    "status": "Pending",
+    "desc": "Washrooms near cafeteria are not cleaned regularly.",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "CMP-1005",
+    "name": "Ali Raza",
+    "title": "Wi-Fi very slow in library",
+    "category": "IT",
+    "priority": "High",
+    "status": "Pending",
+    "desc": "Speed drops below 1 Mbps after 5 PM.",
+    "date": "2026-10-06"
+  },
+  {
+    "id": "CMP-1006",
+    "name": "Daniyal Siddiqui",
+    "title": "Student portal login error",
+    "category": "IT",
+    "priority": "High",
+    "status": "Pending",
+    "desc": "Portal shows 'invalid credentials' even with correct password.",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "CMP-1007",
+    "name": "Ali Raza",
+    "title": "Projector not connecting",
+    "category": "IT",
+    "priority": "Low",
+    "status": "Pending",
+    "desc": "Projector in room 110 does not detect laptops via HDMI.",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "CMP-1008",
+    "name": "Hamza Sheikh",
+    "title": "Lab PCs freezing",
+    "category": "IT",
+    "priority": "Medium",
+    "status": "Pending",
+    "desc": "Computers in lab 3 hang while running IDEs.",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "CMP-1009",
+    "name": "Hamza Sheikh",
+    "title": "Fee voucher mismatch",
+    "category": "Accounts",
+    "priority": "High",
+    "status": "Resolved",
+    "desc": "Voucher amount differed from portal.",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "CMP-1010",
+    "name": "Maryam Iqbal",
+    "title": "Scholarship amount not credited",
+    "category": "Accounts",
+    "priority": "High",
+    "status": "Pending",
+    "desc": "Merit scholarship not adjusted in this semester's fee.",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "CMP-1011",
+    "name": "Hira Farooq",
+    "title": "Late fee fine charged wrongly",
+    "category": "Accounts",
+    "priority": "Low",
+    "status": "Resolved",
+    "desc": "Fine applied although fee was paid before due date.",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "CMP-1012",
+    "name": "Zainab Hussain",
+    "title": "Wrong marks in midterm result",
+    "category": "Academics",
+    "priority": "High",
+    "status": "Resolved",
+    "desc": "Marks in the portal differ from my answer sheet.",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "CMP-1013",
+    "name": "Zainab Hussain",
+    "title": "Timetable clash",
+    "category": "Academics",
+    "priority": "High",
+    "status": "Progress",
+    "desc": "Two courses scheduled at the same time on Tuesday.",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "CMP-1014",
+    "name": "Owais Qureshi",
+    "title": "Course material not uploaded",
+    "category": "Academics",
+    "priority": "Low",
+    "status": "Resolved",
+    "desc": "Lecture slides for week 5 are still missing.",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "CMP-1015",
+    "name": "Maryam Iqbal",
+    "title": "Attendance not updated",
+    "category": "Academics",
+    "priority": "Medium",
+    "status": "Resolved",
+    "desc": "Present days are marked absent for last two weeks.",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "CMP-1016",
+    "name": "Hira Farooq",
+    "title": "Parking area overcrowded",
+    "category": "Other",
+    "priority": "Medium",
+    "status": "Progress",
+    "desc": "No space for bikes near the main gate after 9 AM.",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "CMP-1017",
+    "name": "Sara Khan",
+    "title": "Cafeteria food quality",
+    "category": "Other",
+    "priority": "High",
+    "status": "Progress",
+    "desc": "Food quality has dropped and prices increased.",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "CMP-1018",
+    "name": "Usman Tariq",
+    "title": "Transport bus delay",
+    "category": "Other",
+    "priority": "Medium",
+    "status": "Progress",
+    "desc": "University bus on route 5 arrives 30 minutes late daily.",
+    "date": "2026-09-22"
+  },
+  {
+    "id": "CMP-1019",
+    "name": "Sara Khan",
+    "title": "Lost and found request",
+    "category": "Other",
+    "priority": "High",
+    "status": "Resolved",
+    "desc": "Lost a black wallet near the sports ground.",
+    "date": "2026-10-07"
+  },
+  {
+    "id": "CMP-1020",
+    "name": "Fatima Noor",
+    "title": "Street light not working",
+    "category": "Facilities",
+    "priority": "Medium",
+    "status": "Resolved",
+    "desc": "Lights near the hostel path are off, unsafe at night.",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "CMP-1021",
+    "name": "Maryam Iqbal",
+    "title": "Email account locked",
+    "category": "IT",
+    "priority": "Medium",
+    "status": "Pending",
+    "desc": "University email blocked after password reset attempt.",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "CMP-1022",
+    "name": "Zainab Hussain",
+    "title": "Refund request pending",
+    "category": "Accounts",
+    "priority": "High",
+    "status": "Resolved",
+    "desc": "Course withdrawal refund not received after 1 month.",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "CMP-1023",
+    "name": "Hira Farooq",
+    "title": "Lab manual unavailable",
+    "category": "Academics",
+    "priority": "Medium",
+    "status": "Resolved",
+    "desc": "Physics lab manual is not available in the bookshop.",
+    "date": "2026-10-06"
+  },
+  {
+    "id": "CMP-1024",
+    "name": "Nimra Javed",
+    "title": "Water cooler out of order",
+    "category": "Facilities",
+    "priority": "Medium",
+    "status": "Progress",
+    "desc": "Water cooler on the ground floor is not working.",
+    "date": "2026-10-06"
+  },
+  {
+    "id": "CMP-1025",
+    "name": "Fatima Noor",
+    "title": "Noise near library",
+    "category": "Other",
+    "priority": "Low",
+    "status": "Progress",
+    "desc": "Construction noise disturbs study in the library.",
+    "date": "2026-09-20"
+  }
+]
